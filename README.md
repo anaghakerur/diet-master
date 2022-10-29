@@ -1,2 +1,2 @@
-# diet-master
-Gives the diet plans to users according to their height and weight
+# The-diet-master
+Gives complete diet plan according to height weight and age.
